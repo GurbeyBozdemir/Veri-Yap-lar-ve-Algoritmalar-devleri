@@ -1,3 +1,5 @@
+https://app.patika.dev/aspirique
+
 # Veri Yapıları ve Algoritmalar > Insertion Sort Projesi
 ---
 ### 1) [22,27,16,2,18,6] Sort Türüne göre aşamaları
